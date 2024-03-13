@@ -1,4 +1,4 @@
-cd %1
+cd D:\peraevents.co.uk
 git add .
 git commit -m "changes approved"
 git push
